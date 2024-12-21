@@ -1,1 +1,2 @@
 # Lamoda
+This website is a fashion e-commerce platform built with React, showcasing a clean and user-friendly interface. It features product filtering options, allowing users to browse a variety of items based on different criteria. The design is modern, focusing on seamless navigation and responsive layout, making it accessible across devices. Perfect for a clothing store with an elegant presentation.
